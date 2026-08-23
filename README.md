@@ -456,7 +456,9 @@ Send a natural language query to the medical assistant.
 
 <img width="1600" height="751" alt="image" src="https://github.com/user-attachments/assets/55d18491-8fda-4043-915b-118f500096ec" />
 
-<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/def4fc0a-57db-48c6-ae4b-0550d65ae5ee" />
+
+<img width="600" height="279" alt="image" src="https://github.com/user-attachments/assets/7e94a202-fe30-4def-be06-81b40a4a71ad" />
+
 
 
 ---
