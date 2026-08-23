@@ -452,6 +452,15 @@ Send a natural language query to the medical assistant.
 
 ---
 
+## Snapshots
+
+<img width="1600" height="751" alt="image" src="https://github.com/user-attachments/assets/55d18491-8fda-4043-915b-118f500096ec" />
+
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/def4fc0a-57db-48c6-ae4b-0550d65ae5ee" />
+
+
+---
+
 ## ⚠️ Disclaimer
 
 > **This tool is designed for educational and research purposes only.** It is NOT a substitute for professional medical advice, diagnosis, or treatment. Always seek the advice of a qualified healthcare provider with any questions regarding a medical condition. The clinical guidelines indexed in this system may not reflect the most current evidence. Never disregard professional medical advice or delay seeking it because of information provided by this tool.
