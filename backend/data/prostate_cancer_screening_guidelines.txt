@@ -1,0 +1,28 @@
+Clinical Topic: Prostate Cancer Screening Guidelines
+============================================================
+
+Section 1: Prostate Cancer: A Review.
+Source: JAMA (2025)
+----------------------------------------
+Prostate cancer is the most common nonskin cancer in men in the US, with an estimated 299 010 new cases and 35 250 deaths in 2024. Prostate cancer is the second most common cancer in men worldwide, with 1 466 680 new cases and 396 792 deaths in 2022.
+
+Section 2: Prostate Cancer Foundation Screening Guidelines for Black Men in the United States.
+Source: NEJM evidence (2024)
+----------------------------------------
+In the United States, Black men are at highest risk for being diagnosed with and dying from prostate cancer. Given this disparity, we examined relevant data to establish clinical prostate-specific antigen (PSA) screening guidelines for Black men in the United States.
+
+Section 3: Prostate cancer screening: guidelines review and laboratory issues.
+Source: Clinical chemistry and laboratory medicine (2019)
+----------------------------------------
+Background Prostate-specific antigen (PSA) remains as the most used biomarker in the detection of early prostate cancer (PCa). Clinical practice guidelines (CPGs) are produced to facilitate incorporation of evidence into clinical practice. This is particularly useful when PCa screening remains controversial and guidelines diverge among different medical institutions, although opportunistic screening is not recommended. Methods We performed a systematic review of guidelines about PCa screening using PSA. Guidelines published since 2008 were included in this study. The most updated version of these CPGs was used for the evaluation. Results Twenty-two guidelines were selected for review. In 59% of these guidelines, recommendations were graded according to level of evidence (n = 13), but only 18% of the guidelines provided clear algorithms (n = 4). Each CPG was assessed using a checklist of laboratory issues, including pre-analytical, analytical, and post-analytical factors. We found that laboratory medicine specialists participate in 9% of the guidelines reviewed (n = 2) and laboratory issues were frequently omitted. We remarked that information concerning the consequences of World Health Organization (WHO) standard in PSA testing was considered by only two of 22 CPGs evaluated in this study. Conclusions We concluded that the quality of PCa early detection guidelines could be improved properly considering the laboratory issues in their development.
+
+Section 4: Prostate cancer screening guidelines and their alignment with recent literature.
+Source: JAAPA : official journal of the American Academy of Physician Assistants (2025)
+----------------------------------------
+A prostate-specific antigen (PSA) test is a simple blood test that is used to screen for prostate cancer. Over the last 30 years, the benefit of screening with a PSA test has been a matter of significant debate because of its association with overscreening, overdiagnosis, and overtreatment of prostate cancer. Although most prostate cancer screening guidelines recommend a shared decision-making approach between the patient and provider, these recommendations are contradictory in terms of screening initiation, frequency, and discontinuation as well as screening recommendations for high-risk populations. This article describes a literature review comparing screening guidelines with newer research in order to determine which guideline aligns most closely with the latest findings. Results show that the related American Urological Association and National Comprehensive Cancer Network guidelines, for example, may lead to over- or underscreening, whereas the American Cancer Society (ACS) guideline seems most closely in alignment with recent research. By following the ACS guideline, most clinically significant prostate cancer should be captured with less risk of overscreening and overdiagnosis.
+
+Section 5: Prostate Cancer Screening.
+Source: Primary care (2019)
+----------------------------------------
+Whether to screen for prostate cancer in aging men is a topic that is fairly well researched, but recommendations are controversial, because the evidence supporting any recommendation is equivocal. The evidence clearly does not support routine screening of all average-risk men, but for men aged 55 to 69 years, either not routinely screening, or engaging each man in shared decision making for his individual preference on screening, is reasonable and consistent with the evidence. Many organizations, including the American Cancer Society, have not yet reassessed their guidelines, in response to the US Preventative Services Task Force revised guideline.
+

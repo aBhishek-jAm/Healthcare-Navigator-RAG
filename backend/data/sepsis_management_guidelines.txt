@@ -1,0 +1,23 @@
+Clinical Topic: Sepsis Management Guidelines
+============================================================
+
+Section 1: Surviving Sepsis Campaign International Guidelines for the Management of Sepsis and Septic Shock in Children 2026.
+Source: Pediatric critical care medicine : a journal of the Society of Critical Care Medicine and the World Federation of Pediatric Intensive and Critical Care Societies (2026)
+----------------------------------------
+To update evidence-based management recommendations for clinicians caring for children (including infants, school-aged children, and adolescents) with sepsis or septic shock.
+
+Section 2: Surviving sepsis campaign international guidelines for the management of septic shock and sepsis-associated organ dysfunction in children.
+Source: Intensive care medicine (2020)
+----------------------------------------
+To develop evidence-based recommendations for clinicians caring for children (including infants, school-aged children, and adolescents) with septic shock and other sepsis-associated organ dysfunction.
+
+Section 3: Management of sepsis and septic shock in the emergency department.
+Source: Internal and emergency medicine (2021)
+----------------------------------------
+Early management of sepsis and septic shock is crucial for patients' prognosis. As the Emergency Department (ED) is the place where the first medical contact for septic patients is likely to occur, emergency physicians play an essential role in the early phases of patient management, which consists of accurate initial diagnosis, resuscitation, and early antibiotic treatment. Since the issuing of the Surviving Sepsis Campaign guidelines in 2016, several studies have been published on different aspects of sepsis management, adding a substantial amount of new information on the pathophysiology and treatment of sepsis and septic shock. In light of this emerging evidence, the present narrative review provides a comprehensive account of the recent advances in septic patient management in the ED.
+
+Section 4: Management of sepsis in neutropenic cancer patients: 2018 guidelines from the Infectious Diseases Working Party (AGIHO) and Intensive Care Working Party (iCHOP) of the German Society of Hematology and Medical Oncology (DGHO).
+Source: Annals of hematology (2019)
+----------------------------------------
+Sepsis and septic shock are major causes of mortality during chemotherapy-induced neutropenia for malignancies requiring urgent treatment. Thus, awareness of the presenting characteristics and prompt management is most important. Improved management of sepsis during neutropenia may reduce the mortality of cancer therapies. However, optimal management may differ between neutropenic and non-neutropenic patients. The aim of the current guideline is to give evidence-based recommendations for hematologists, oncologists, and intensive care physicians on how to manage adult patients with neutropenia and sepsis.
+

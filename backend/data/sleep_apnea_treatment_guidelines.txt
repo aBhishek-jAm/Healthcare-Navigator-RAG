@@ -1,0 +1,28 @@
+Clinical Topic: Sleep Apnea Treatment Guidelines
+============================================================
+
+Section 1: Clinical Practice Guideline for Diagnostic Testing for Adult Obstructive Sleep Apnea: An American Academy of Sleep Medicine Clinical Practice Guideline.
+Source: Journal of clinical sleep medicine : JCSM : official publication of the American Academy of Sleep Medicine (2017)
+----------------------------------------
+This guideline establishes clinical practice recommendations for the diagnosis of obstructive sleep apnea (OSA) in adults and is intended for use in conjunction with other American Academy of Sleep Medicine (AASM) guidelines on the evaluation and treatment of sleep-disordered breathing in adults.
+
+Section 2: Sleep Apnea Syndrome (SAS) Clinical Practice Guidelines 2020.
+Source: Respiratory investigation (2022)
+----------------------------------------
+The prevalence of sleep disordered breathing (SDB) is reportedly very high. Among SDBs, the incidence of obstructive sleep apnea (OSA) is higher than previously believed, with patients having moderate-to-severe OSA accounting for approximately 20% of adult males and 10% of postmenopausal women not only in Western countries but also in Eastern countries, including Japan. Since 1998, when health insurance coverage became available, the number of patients using continuous positive airway pressure (CPAP) therapy for sleep apnea has increased sharply, with the number of patients about to exceed 500,000 in Japan. Although the "Guidelines for Diagnosis and Treatment of Sleep Apnea Syndrome (SAS) in Adults" was published in 2005, a new guideline was prepared in order to indicate the standard medical care based on the latest trends, as supervised by and in cooperation with the Japanese Respiratory Society and the "Survey and Research on Refractory Respiratory Diseases and Pulmonary Hypertension" Group, of Ministry of Health, Labor and Welfare and other related academic societies, including the Japanese Society of Sleep Research, in addition to referring to the previous guidelines. Because sleep apnea is an interdisciplinary field covering many areas, this guideline was prepared including 36 clinical questions (CQs). In the English version, therapies and managements for SAS, which were written from CQ16 to 36, were shown. The Japanese version was published in July 2020 and permitted as well as published as one of the Medical Information Network Distribution Service (Minds) clinical practice guidelines in Japan in July 2021.
+
+Section 3: Treatment of Adult Obstructive Sleep Apnea with Positive Airway Pressure: An American Academy of Sleep Medicine Clinical Practice Guideline.
+Source: Journal of clinical sleep medicine : JCSM : official publication of the American Academy of Sleep Medicine (2019)
+----------------------------------------
+This guideline establishes clinical practice recommendations for positive airway pressure (PAP) treatment of obstructive sleep apnea (OSA) in adults and is intended for use in conjunction with other American Academy of Sleep Medicine (AASM) guidelines in the evaluation and treatment of sleep-disordered breathing in adults.
+
+Section 4: Clinical Practice Guideline for the Treatment of Obstructive Sleep Apnea and Snoring with Oral Appliance Therapy: An Update for 2015.
+Source: Journal of clinical sleep medicine : JCSM : official publication of the American Academy of Sleep Medicine (2015)
+----------------------------------------
+Since the previous parameter and review paper publication on oral appliances (OAs) in 2006, the relevant scientific literature has grown considerably, particularly in relation to clinical outcomes. The purpose of this new guideline is to replace the previous and update recommendations for the use of OAs in the treatment of obstructive sleep apnea (OSA) and snoring.
+
+Section 5: [Guidelines for the diagnosis and treatment of obstructive sleep apnea in adults (2025)].
+Source: Zhonghua jie he he hu xi za zhi = Zhonghua jiehe he huxi zazhi = Chinese journal of tuberculosis and respiratory diseases (2026)
+----------------------------------------
+Obstructive sleep apnea (OSA) is a highly prevalent sleep-related breathing disorder with a considerable healthcare burden. Previously, the 2011 guideline for adult obstructive sleep apnea was largely formulated on the basis of expert opinion and consensus, which played an important role in guiding clinical practice. With the growing body of evidence from high-quality clinical studies, however, guideline development models that rely primarily on expert consensus are no longer adequate to support contemporary clinical decision-making. To further standardize the screening, diagnosis, treatment, and long-term management of OSA in adults, the Sleep Disordered Breathing Assembly of the Chinese Thoracic Society has developed evidence-based clinical practice guidelines. The recommendations were formulated according to the best currently available evidence, following the 
+

@@ -1,0 +1,28 @@
+Clinical Topic: Epilepsy Treatment Guidelines
+============================================================
+
+Section 1: Epilepsy and cannabidiol: a guide to treatment.
+Source: Epileptic disorders : international epilepsy journal with videotape (2020)
+----------------------------------------
+The growing interest in cannabidiol (CBD), specifically a pure form of CBD, as a treatment for epilepsy, among other conditions, is reflected in recent changes in legislation in some countries. Although there has been much speculation about the therapeutic value of cannabis-based products as an anti-seizure treatment for some time, it is only within the last two years that Class I evidence has been available for a pure form of CBD, based on placebo-controlled RCTs for patients with Lennox-Gastaut syndrome and Dravet syndrome. However, just as we are beginning to understand the significance of CBD as a treatment for epilepsy, in recent years, a broad spectrum of products advertised to contain CBD has emerged on the market. The effects of these products are fundamentally dependent on the purity, preparation, and concentration of CBD and other components, and consensus and standardisation are severely lacking regarding their preparation, composition, usage and effectiveness. This review aims to provide information to neurologists and epileptologists on the therapeutic value of CBD products, principally a purified form, in routine practice for patients with intractable epilepsy.
+
+Section 2: Comorbidities of epilepsy: current concepts and future perspectives.
+Source: The Lancet. Neurology (2016)
+----------------------------------------
+The burden of comorbidity in people with epilepsy is high. Several diseases, including depression, anxiety, dementia, migraine, heart disease, peptic ulcers, and arthritis are up to eight times more common in people with epilepsy than in the general population. Several mechanisms explain how epilepsy and comorbidities are associated, including shared risk factors and bidirectional relations. There is a pressing need for new and validated screening instruments and guidelines to help with the early detection and treatment of comorbid conditions. Preliminary evidence suggests that some conditions, such as depression and migraine, negatively affect seizure outcome and quality of life. Further investigation is needed to explore these relations and the effects of targeted interventions. Future advances in the investigation of the comorbidities of epilepsy will strengthen our understanding of epilepsy and could play an important part in stratification for genetic studies.
+
+Section 3: Neuropharmacology of Antiseizure Drugs.
+Source: Neuropsychopharmacology reports (2021)
+----------------------------------------
+Antiseizure drugs (ASDs) are the primary therapy for epilepsy, with more than 20 drugs introduced into clinical practice to date. These drugs are typically grouped by their mechanisms of action and therapeutic spectrum. This article aims to educate non-neurologists and medical students about the new frontiers in the pharmacology of ASDs and presents the current state of the literature on the efficacy and tolerability of these agents.
+
+Section 4: International consensus on diagnosis and management of Dravet syndrome.
+Source: Epilepsia (2022)
+----------------------------------------
+This study was undertaken to gain consensus from experienced physicians and caregivers regarding optimal diagnosis and management of Dravet syndrome (DS), in the context of recently approved, DS-specific therapies and emerging disease-modifying treatments.
+
+Section 5: 2015 ACVIM Small Animal Consensus Statement on Seizure Management in Dogs.
+Source: Journal of veterinary internal medicine (2016)
+----------------------------------------
+This report represents a scientific and working clinical consensus statement on seizure management in dogs based on current literature and clinical expertise. The goal was to establish guidelines for a predetermined, concise, and logical sequential approach to chronic seizure management starting with seizure identification and diagnosis (not included in this report), reviewing decision-making, treatment strategies, focusing on issues related to chronic antiepileptic drug treatment response and monitoring, and guidelines to enhance patient response and quality of life. Ultimately, we hope to provide a foundation for ongoing and future clinical epilepsy research in veterinary medicine.
+

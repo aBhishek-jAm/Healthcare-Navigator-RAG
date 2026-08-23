@@ -1,0 +1,28 @@
+Clinical Topic: Hiv Treatment Antiretroviral
+============================================================
+
+Section 1: HIV/AIDS epidemiology, pathogenesis, prevention, and treatment.
+Source: Lancet (London, England) (2006)
+----------------------------------------
+The HIV-1 pandemic is a complex mix of diverse epidemics within and between countries and regions of the world, and is undoubtedly the defining public-health crisis of our time. Research has deepened our understanding of how the virus replicates, manipulates, and hides in an infected person. Although our understanding of pathogenesis and transmission dynamics has become more nuanced and prevention options have expanded, a cure or protective vaccine remains elusive. Antiretroviral treatment has transformed AIDS from an inevitably fatal condition to a chronic, manageable disease in some settings. This transformation has yet to be realised in those parts of the world that continue to bear a disproportionate burden of new HIV-1 infections and are most affected by increasing morbidity and mortality. This Seminar provides an update on epidemiology, pathogenesis, treatment, and prevention interventions pertinent to HIV-1.
+
+Section 2: HIV treatment and prevention 2019: current standards of care.
+Source: Current opinion in HIV and AIDS (2020)
+----------------------------------------
+The purpose of this review is to summarize the current standards of care for both HIV treatment and HIV prevention in 2019.
+
+Section 3: Antiretroviral treatment of adult HIV infection: 2010 recommendations of the International AIDS Society-USA panel.
+Source: JAMA (2010)
+----------------------------------------
+Recent data regarding the consequences of untreated human immunodeficiency virus (HIV) infection and the expansion of treatment choices for antiretroviral-naive and antiretroviral-experienced patients warrant an update of the International AIDS Society-USA guidelines for the use of antiretroviral therapy in adults with HIV infection.
+
+Section 4: Consensus recommendations for use of long-acting antiretroviral medications in the treatment and prevention of HIV-1: Endorsed by the American Academy of HIV Medicine, American College of Clinical Pharmacy, Canadian HIV and Viral Hepatitis Pharmacists Network, European AIDS Clinical Society, and Society of Infectious Diseases Pharmacists.
+Source: Pharmacotherapy (2024)
+----------------------------------------
+Five long-acting (LA) antiretrovirals (ARVs) are currently available in a limited number of countries worldwide for HIV-1 prevention or treatment-cabotegravir, rilpivirine, lenacapavir, ibalizumab, and dapivirine. Implementing use of LA ARVs into routine clinical practice requires significant changes to the current framework of HIV-1 prevention, treatment, and service provision. Given the novelty, complexity, and interdisciplinary requirements needed to safely and optimally utilize LA ARVs, consensus recommendations on the use of LA ARVs will assist clinicians in optimizing use of these agents. The purpose of these recommendations is to provide guidance for the clinical use of LA ARVs for HIV-1 treatment and prevention. In addition, future areas of research are also identified and discussed.
+
+Section 5: Consensus recommendations for use of long-acting antiretroviral medications in the treatment and prevention of HIV-1: Endorsed by the American Academy of HIV Medicine, American College of Clinical Pharmacy, Canadian HIV and Viral Hepatitis Pharmacists Network, European AIDS Clinical Society, and Society of Infectious Diseases Pharmacists: An executive summary.
+Source: Pharmacotherapy (2024)
+----------------------------------------
+Five long-acting (LA) antiretrovirals (ARVs) are currently available in a limited number of countries worldwide for HIV-1 prevention or treatment - cabotegravir, rilpivirine, lenacapavir, ibalizumab, and dapivirine. Implementing use of LA ARVs in routine clinical practice requires significant changes to the current framework of HIV-1 prevention, treatment, and service provision. Given the novelty, complexity, and interdisciplinary requirements of safe and optimal use of LA ARVs, consensus recommendations on the use of LA ARVs will assist clinicians in optimizing use of these agents. The purpose of these recommendations is to provide guidance for the clinical use of LA ARVs for HIV-1 treatment and prevention. In addition, future areas of research are identified and discussed.
+

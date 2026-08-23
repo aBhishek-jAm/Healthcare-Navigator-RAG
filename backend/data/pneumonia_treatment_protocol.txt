@@ -1,0 +1,23 @@
+Clinical Topic: Pneumonia Treatment Protocol
+============================================================
+
+Section 1: Implementing the Free Water Protocol does not Result in Aspiration Pneumonia in Carefully Selected Patients with Dysphagia: A Systematic Review.
+Source: Dysphagia (2017)
+----------------------------------------
+The Frazier Free Water Protocol was developed with the aim of providing patients with dysphagia an option to consume thin (i.e. unthickened) water in-between mealtimes. A systematic review was conducted of research published in peer-reviewed journals. An electronic search of the EMBASE, CINAHL and MEDLINE databases was completed up to July 2016. A total of 8 studies were identified for inclusion: 5 randomised controlled trials, 2 cohort studies with matched cases and 1 single group pre-post intervention prospective study. A total of 215 rehabilitation inpatients and 30 acute patients with oropharyngeal dysphagia who required thickened fluids or were to remain 'nil by mouth', as determined by bedside swallow assessment and/or videofluoroscopy/fiberoptic endoscopic evaluation of swallowing, were included. Meta-analyses of the data from the rehabilitation studies revealed (1) low-quality evidence that implementing the protocol did not result in increased odds of having lung complications and (2) low-quality evidence that fluid intake may increase. Patients' perceptions of swallow-related quality of life appeared to improve. This review has found that when the protocol is closely adhered to and patients are carefully selected using strict exclusion criteria, including an evaluation of their cognition and mobility, adult rehabilitation inpatients with dysphagia to thin fluids can be offered the choice of implementing the Free Water Protocol. Further research is required to determine if the Free Water Protocol can be implemented in settings other than inpatient rehabilitation.
+
+Section 2: Outcome evaluation of pharmacist-physician collaborative protocol-based antimicrobial treatment for hospitalized stroke patients with aspiration pneumonia.
+Source: Journal of infection and chemotherapy : official journal of the Japan Society of Chemotherapy (2025)
+----------------------------------------
+To evaluate the efficacy and patient outcomes of pharmacist-physician collaborative protocol-based antimicrobial treatment regimens for antimicrobial stewardship.
+
+Section 3: Corticosteroid treatment for community-acquired pneumonia--the STEP trial: study protocol for a randomized controlled trial.
+Source: Trials (2014)
+----------------------------------------
+Community-acquired pneumonia (CAP) is the third-leading infectious cause of death worldwide. The standard treatment of CAP has not changed for the past fifty years and its mortality and morbidity remain high despite adequate antimicrobial treatment. Systemic corticosteroids have anti-inflammatory effects and are therefore discussed as adjunct treatment for CAP. Available studies show controversial results, and the question about benefits and harms of adjunct corticosteroid therapy has not been conclusively resolved, particularly in the non-critical care setting.
+
+Section 4: Treatment Protocol for COVID-19 Based on T2R Phenotype.
+Source: Viruses (2021)
+----------------------------------------
+COVID-19 has become a global pandemic of the highest priority. Multiple treatment protocols have been proposed worldwide with no definitive answer for acure. A prior retrospective study showed association between bitter taste receptor 38 (T2R38) phenotypes and the severity of COVID-19. Based on this, we proposed assessing the different T2R38 phenotypes response towards a targeted treatment protocol. Starting July 2020 till December 2020, we tested subjects for T2R38 phenotypic expression (supertasters, tasters, and nontasters). Subjects who were subsequently infected with severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) (diagnosed via PCR) were included. Based on their taster status, supertasters were given dexamethasone for 4 days; tasters were given azithromycin and dexamethasone +/- hydroxychloroquine for 7 days; and nontasters were given azithromycin and dexamethasone for 12 days. Subjects were followed prospectively and their outcomes were documented. Seven hundred forty-seven COVID-19 patients were included, with 184 (24.7%) supertasters, 371 (49.6%) tasters, and192 (25.7%) nontasters. The average duration of symptoms with the treatment protocol was 5 days for supertasters, 8.1 days for tasters, and 16.2 days for nontasters. Only three subjects (0.4%) required hospitalization (3/3 nontasters). Targeted treatment protocol showed significant correlation (
+

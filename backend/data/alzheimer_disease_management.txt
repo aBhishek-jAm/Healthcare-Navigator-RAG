@@ -1,0 +1,28 @@
+Clinical Topic: Alzheimer Disease Management
+============================================================
+
+Section 1: Comprehensive Review on Alzheimer's Disease: Causes and Treatment.
+Source: Molecules (Basel, Switzerland) (2020)
+----------------------------------------
+Alzheimer's disease (AD) is a disorder that causes degeneration of the cells in the brain and it is the main cause of dementia, which is characterized by a decline in thinking and independence in personal daily activities. AD is considered a multifactorial disease: two main hypotheses were proposed as a cause for AD, cholinergic and amyloid hypotheses. Additionally, several risk factors such as increasing age, genetic factors, head injuries, vascular diseases, infections, and environmental factors play a role in the disease. Currently, there are only two classes of approved drugs to treat AD, including inhibitors to cholinesterase enzyme and antagonists to 
+
+Section 2: Amyloidosis in Alzheimer's Disease: Pathogeny, Etiology, and Related Therapeutic Directions.
+Source: Molecules (Basel, Switzerland) (2022)
+----------------------------------------
+The amyloid hypothesis of Alzheimer's disease has long been the predominant theory, suggesting that Alzheimer's disease is caused by the accumulation of amyloid beta protein (Aβ) in the brain, leading to neuronal toxicity in the central nervous system (CNS). Because of breakthroughs in molecular medicine, the amyloid pathway is thought to be central to the pathophysiology of Alzheimer's disease (AD). Currently, it is believed that altered biochemistry of the Aβ cycle remains a central biological feature of AD and is a promising target for treatment. This review provides an overview of the process of amyloid formation, explaining the transition from amyloid precursor protein to amyloid beta protein. Moreover, we also reveal the relationship between autophagy, cerebral blood flow, ACHE, expression of LRP1, and amyloidosis. In addition, we discuss the detailed pathogenesis of amyloidosis, including oxidative damage, tau protein, NFTs, and neuronal damage. Finally, we list some ways to treat AD in terms of decreasing the accumulation of Aβ in the brain.
+
+Section 3: A review on advances of treatment modalities for Alzheimer's disease.
+Source: Life sciences (2021)
+----------------------------------------
+Alzheimer's disease (AD) is a multifactorial neurodegenerative disease which is mainly characterized by progressive impairment in cognition, emotion, language and memory in older population. Considering the impact of AD, formulations of pharmaceutical drugs and cholinesterase inhibitors have been widely propagated, receiving endorsement by FDA as a form of AD treatment. However, these medications were gradually discovered to be ineffective in removing the root of AD pathogenesis but merely targeting the symptoms so as to improve a patient's cognitive outcome. Hence, a search for better disease-modifying alternatives is put into motion. Having a clear understanding of the neuroprotective mechanisms and diverse properties undertaken by specific genes, antibodies and nanoparticles is central towards designing novel therapeutic agents. In this review, we provide a brief introduction on the background of Alzheimer's disease, the biology of blood-brain barrier, along with the potentials and drawbacks associated with current therapeutic treatment avenues pertaining to gene therapy, immunotherapy and nanotherapy for better diagnosis and management of Alzheimer's disease.
+
+Section 4: Alzheimer Disease.
+Source: Clinics in geriatric medicine (2018)
+----------------------------------------
+Alzheimer disease is due to increased amyloid-β coupled with low progranulin. Several brain imaging techniques are helpful in the diagnosis. Drugs available for treating Alzheimer disease have limited clinical utility. Cognitive stimulation therapy is an effective therapy for persons with moderate Alzheimer disease.
+
+Section 5: Alzheimer's disease biomarkers and the tyranny of treatment.
+Source: EBioMedicine (2024)
+----------------------------------------
+Advances in treatment are changing not only the therapeutic options for patients with Alzheimer's disease; they're also changing their diagnostic options. Technologies to detect amyloid such as PET imaging and blood or CSF testing now have a central role in Alzheimer's disease care. Notably, this role has been made possible by regulatory approval and coverage by payers of therapies. Access to treatments and the diagnostic tests needed to prescribe them is encourageing but it reveals a problem. These tests are tailored to the needs of the therapies, not to the needs of patients. Patients and families need to understand the causes of their impairments and their prognosis. This requires access to the best available diagnostic tests and this access should not depend on the availability of treatments. These tests should be used to their fullest capacity to inform patients of the causes of their cognitive impairments and their prognosis. Unfortunately, compared to diagnostic testing, treatment options are overvalued. We call this problem the tyranny of treatment.
+

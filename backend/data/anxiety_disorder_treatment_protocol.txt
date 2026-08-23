@@ -1,0 +1,28 @@
+Clinical Topic: Anxiety Disorder Treatment Protocol
+============================================================
+
+Section 1: The Unified Protocol for Transdiagnostic Treatment of Emotional Disorders Compared With Diagnosis-Specific Protocols for Anxiety Disorders: A Randomized Clinical Trial.
+Source: JAMA psychiatry (2017)
+----------------------------------------
+Transdiagnostic interventions have been developed to address barriers to the dissemination of evidence-based psychological treatments, but only a few preliminary studies have compared these approaches with existing evidence-based psychological treatments.
+
+Section 2: Passionflower in the treatment of generalized anxiety: a pilot double-blind randomized controlled trial with oxazepam.
+Source: Journal of clinical pharmacy and therapeutics (2001)
+----------------------------------------
+Passionflower (Passiflora incarnata) is a folk remedy for anxiety. A double-blind randomized trial compared the efficacy of Passiflora incarnata extract with oxazepam in the treatment of generalized anxiety disorder.
+
+Section 3: Acupuncture for generalized anxiety disorder: a study protocol for a randomized controlled trial.
+Source: Brazilian journal of medical and biological research = Revista brasileira de pesquisas medicas e biologicas (2024)
+----------------------------------------
+During the COVID-19 outbreak, there was a sharp increase in generalized anxiety disorder (GAD). Acupuncture therapy has the advantages of accurate clinical efficacy, safety and reliability, few adverse reactions, and no dependence, and is gradually becoming one of the emerging therapies for treating GAD. We present a study protocol for a randomized clinical trial with the aim of exploring the mechanism of brain plasticity in patients with GAD and evaluate the effectiveness and reliability of acupuncture treatment. Transcranial magnetic stimulation (TMS) will be used to assess cortical excitability in GAD patients and healthy people. Sixty-six GAD patients meeting the inclusion criteria will be randomly divided into two groups: TA group, (treatment with acupuncture and basic western medicine treatment) and SA group (sham acupuncture and basic western medicine treatment). Twenty healthy people will be recruited as the control group (HC). The parameters that will be evaluated are amplitude of motor evoked potentials (MEPs), cortical resting period (CSP), resting motor threshold (RMT), and Hamilton Anxiety Scale (HAMA) score. Secondary results will include blood analysis of γ-aminobutyric acid (GABA), glutamate (Glu), glutamine (Gln), serotonin (5-HT), and brain-derived nerve growth factor (BDNF). Outcomes will be assessed at baseline and after the intervention (week 8). This study protocol is the first clinical trial designed to detect differences in cerebral cortical excitability between healthy subjects and patients with GAD, and the comparison of clinical efficacy and reliability before and after acupuncture intervention is also one of the main contents of the protocol. We hope to find a suitable non-pharmacological alternative treatment for patients with GAD.
+
+Section 4: Benzodiazepine dependence.
+Source: Australian family physician (2004)
+----------------------------------------
+Benzodiazepine dependency can occur as a result of treatment for anxiety disorders or sleep disturbance. While benzodiazepine withdrawal can be challenging, cessation of use can be even more difficult if there are other comorbidities such as oestrogen deficiency with vasomotor symptoms and anxiety disorders.
+
+Section 5: Hypnotherapeutic treatment for anxiety-related relational discord: a short-term hypnotherapeutic protocol.
+Source: The American journal of clinical hypnosis (2014)
+----------------------------------------
+Hypnotherapeutic interventions are currently used to treat both anxiety disorders and relational discord between couples, yet few hypnotherapeutic interventions specifically address anxiety disorders within the context of a romantic partnership. This article explores a short-term hypnotherapeutic treatment protocol designed for couples' therapy in which the relational dynamic has been impacted by one partner's anxiety disorder. Anxiety not only causes suffering for the anxious patient, but can negatively impact intimate relationships as well. The hypnotherapeutic treatment protocol advanced in this article is specifically designed to address relational discord which is fueled by the presence of one partner's anxiety, and complements more standard individual treatment for anxiety disorders. Strategies to assess for the presence of relational discord with individual patients presenting with an anxiety disorder are included, as well as implications for longer-term couples' treatment.
+

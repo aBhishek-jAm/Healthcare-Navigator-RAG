@@ -1,0 +1,18 @@
+Clinical Topic: Hypertension Management Clinical
+============================================================
+
+Section 1: Hypertension management: the care gap between clinical guidelines and clinical practice.
+Source: The American journal of managed care (2004)
+----------------------------------------
+To evaluate how well hypertension is managed in HMO patients and to assess opportunities for improvement.
+
+Section 2: The clinical effects of continuous nursing intervention combined with chronic disease management center in patients with severe hypertension.
+Source: Medicine (2025)
+----------------------------------------
+The construction and application of chronic disease management centers are increasing. However, the effect of continuing nursing combined with intervention measures provided by chronic disease management centers in patients with severe hypertension is still unclear. To analyze the application effect of continuous nursing intervention combined with chronic disease management center in patients with severe hypertension. 240 patients with severe hypertension were randomly divided into control group (N = 120) and study group (N = 120). The study group adopted the intervention measures of continuous nursing combined with chronic disease management center, while the control group adopted routine nursing. The nursing effects of the 2 groups were compared. After nursing, the short form 36-item health survey, total satisfaction rate and medication compliance rate of the study group were higher than those of the control group (P < .001). Blood pressure, self-rating anxiety scale, and self-rating depression scale scores were lower than those of the control group (P < .05). Continuing nursing combined with the intervention of chronic disease management center can effectively reduce the blood pressure of patients with severe hypertension, and the overall nursing effect is remarkable.
+
+Section 3: The hypertension management program: identifying opportunities for improvement.
+Source: Journal of clinical hypertension (Greenwich, Conn.) (2003)
+----------------------------------------
+To date, relatively few programs have been evaluated that were designed to affect the clinical practice patterns of primary care physicians who treat patients with hypertension. In particular, studies that have evaluated blood pressure control as a clinical outcome before and after an intervention are lacking. The Hypertension Management Program, developed by Applied Health Outcomes, is a quality improvement program designed to improve the medical management of hypertension in population-based health care settings. This program is in the process of continuing to collect baseline data from health maintenance organizations, conducting physician-focused interventions designed for improving clinical care, and collecting postintervention data between 6 and 12 months after the intervention is completed to determine its effect. The authors present the rationale for conducting large-scale hypertension management programs that measure outcomes, as well as preliminary baseline and postintervention data from the Hypertension Management Program, based on a current database of more than 1.9 million individuals enrolled in eight health care plans.
+

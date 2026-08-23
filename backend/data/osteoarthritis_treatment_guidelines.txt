@@ -1,0 +1,28 @@
+Clinical Topic: Osteoarthritis Treatment Guidelines
+============================================================
+
+Section 1: Non-surgical treatment of knee osteoarthritis.
+Source: Hong Kong medical journal = Xianggang yi xue za zhi (2019)
+----------------------------------------
+Knee osteoarthritis is one of the most common degenerative diseases causing disability in elderly patients. Osteoarthritis is an increasing problem for ageing populations, such as that in Hong Kong. It is important for guidelines to be kept up to date with the best evidence-based osteoarthritis management practices available. The aim of this study was to review the current literature and international guidelines on non-surgical treatments for knee osteoarthritis and compared these with the current guidelines in Hong Kong, which were proposed in 2005. Internationally, exercise programmes for non-surgical management of osteoarthritis have been proven effective, and a pilot programme in Hong Kong for comprehensive non-surgical knee osteoarthritis management has been successful. Long-term studies on the effectiveness of such exercise programmes are required, to inform future changes to guidelines on osteoarthritis management.
+
+Section 2: OARSI guidelines for the non-surgical management of knee, hip, and polyarticular osteoarthritis.
+Source: Osteoarthritis and cartilage (2019)
+----------------------------------------
+To update and expand upon prior Osteoarthritis Research Society International (OARSI) guidelines by developing patient-focused treatment recommendations for individuals with Knee, Hip, and Polyarticular osteoarthritis (OA) that are derived from expert consensus and based on objective review of high-quality meta-analytic data.
+
+Section 3: Cross-sectional Analysis of Recommendations for the Treatment of Hip and Knee Osteoarthritis in Clinical Guidelines.
+Source: Archives of physical medicine and rehabilitation (2022)
+----------------------------------------
+To compare guideline recommendations for hip and knee osteoarthritis (OA) and their level of evidence.
+
+Section 4: Pharmaceutical treatment of osteoarthritis.
+Source: Osteoarthritis and cartilage (2023)
+----------------------------------------
+To review the current state of pharmaceutical treatment recommendations for the management of osteoarthritis.
+
+Section 5: Osteoarthritis Treatment Guidelines from Six Professional Societies: Similarities and Differences.
+Source: Rheumatic diseases clinics of North America (2022)
+----------------------------------------
+Despite the high prevalence and burden of osteoarthritis (OA) worldwide, management of OA continues to primarily focus on symptom management due to the lack of approved pharmacologic agents that halt disease progression. Recent recommendations from 6 professional societies support the importance of education, self-management approaches, weight loss, and physical modalities in managing OA. These recent guidelines also highlight the paucity of effective and safe treatment options, with recommendations against ineffective therapies outnumbering those for effective ones. NSAIDs, oral and topical, remain the primary recommended pharmacologic management option for OA.
+

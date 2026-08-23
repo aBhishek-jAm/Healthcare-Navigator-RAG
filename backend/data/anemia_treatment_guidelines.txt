@@ -1,0 +1,28 @@
+Clinical Topic: Anemia Treatment Guidelines
+============================================================
+
+Section 1: Diagnosis and treatment of autoimmune hemolytic anemia in adults: Recommendations from the First International Consensus Meeting.
+Source: Blood reviews (2020)
+----------------------------------------
+Autoimmune hemolytic anemias (AIHAs) are rare and heterogeneous disorders characterized by the destruction of red blood cells through warm or cold antibodies. There is currently no licensed treatment for AIHA. Due to the paucity of clinical trials, recommendations on diagnosis and therapy have often been based on expert opinions and some national guidelines. Here we report the recommendations of the First International Consensus Group, who met with the aim to review currently available data and to provide standardized diagnostic criteria and therapeutic approaches as well as an overview of novel therapies. Exact diagnostic workup is important because symptoms, course of disease, and therapeutic management relate to the type of antibody involved. Monospecific direct antiglobulin test is considered mandatory in the diagnostic workup, and any causes of secondary AIHA have to be diagnosed. Corticosteroids remain first-line therapy for warm-AIHA, while the addition of rituximab should be considered early in severe cases and if no prompt response to steroids is achieved. Rituximab with or without bendamustine should be used in the first line for patients with cold agglutinin disease requiring therapy. We identified a need to establish an international AIHA network. Future recommendations should be based on prospective clinical trials whenever possible.
+
+Section 2: Screening and treatment of iron deficiency anemia in pregnancy: A review and appraisal of current international guidelines.
+Source: International journal of gynaecology and obstetrics: the official organ of the International Federation of Gynaecology and Obstetrics (2024)
+----------------------------------------
+Iron deficiency anemia (IDA) in pregnancy is a common diagnosis that is associated with adverse obstetric and neonatal outcomes. There remains uncertainty regarding how best to screen for, prevent, and treat established IDA in pregnancy. There is no consensus on the benefits of routine iron supplementation in pregnancy, with concerns regarding potential harmful effects of routine iron supplementation in women who are iron replete. Fourteen international guidelines were selected and appraised and compared by a multidisciplinary team. The AGREE II GRS tool was used. Each reviewer independently made their own assessment, and the scores from 1 to 7 were also collated and averaged for an overall score incorporating seven domains: process of development, clarity of presentation, completeness of reporting, clinical validity, and overall quality. The reviewers' scores were also individually compared according to discipline. The mean score across all the guidelines was 4.4 (range 3.5-6.5). Only half of the guidelines recommend routine iron in pregnancy. In terms of screening recommendations, five guidelines recommend screening with ferritin in addition to a full blood count in pregnancy, two recommend selective screening with ferritin for at risk groups only, and one guideline suggests using ferritin where feasible. Although many of the guidelines recommend similar doses of oral elemental iron of 100-200 mg daily for the treatment of established IDA in pregnancy, two recommend twice or three times daily dosing. Only five guidelines give hemoglobin rises to expect within specific timeframes. There remains a need to clarify the optimal screening method, dosing regimen, timing, and route of iron supplementation in pregnancy. Robust randomized controlled data are needed to guide appropriate prevention and management.
+
+Section 3: A Review of Clinical Guidelines on the Management of Iron Deficiency and Iron-Deficiency Anemia in Women with Heavy Menstrual Bleeding.
+Source: Advances in therapy (2021)
+----------------------------------------
+Up to one-third of women of reproductive age experience heavy menstrual bleeding (HMB). HMB can give rise to iron deficiency (ID) and, in severe cases, iron-deficiency anemia (IDA).
+
+Section 4: Updated Guidelines for the Treatment of Acquired Aplastic Anemia in Children.
+Source: Current oncology reports (2018)
+----------------------------------------
+This review aimed to provide updated guidelines for the management of children with acquired aplastic anemia (AA), particularly focusing on hematopoietic stem cell transplantation (HSCT).
+
+Section 5: The definition, screening, and treatment of postpartum anemia: A systematic review of guidelines.
+Source: Birth (Berkeley, Calif.) (2021)
+----------------------------------------
+Postpartum anemia can negatively affect maternal health and interfere with early parenting. Thus, it is important to have clear, evidence-informed recommendations on its diagnosis and treatment.
+

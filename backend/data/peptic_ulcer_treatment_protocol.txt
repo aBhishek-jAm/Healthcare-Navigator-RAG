@@ -1,0 +1,28 @@
+Clinical Topic: Peptic Ulcer Treatment Protocol
+============================================================
+
+Section 1: Gastrinoma.
+Source: Current treatment options in oncology (2001)
+----------------------------------------
+Gastrinoma treatment has evolved considerably in the last 20 years. In particular, the advent of effective acid-reducing pharmacologic agents has changed the primary morbidity of this disease entity from one of acid hypersecretion to one of tumor growth and spread. Thus, while symptoms can be temporized using histamine receptor antagonists, proton pump inhibitors, or somatostatin analogs, cure can be effected only by surgical means. Recent advances in operative techniques and pre- and intra-operative imaging studies, including routine duodenotomy, somatostatin-receptor scintigraphy, and intraoperative ultrasound, have allowed for identification and subsequent resection of more than 95% of gastrinoma tumors. Most experts agree that all sporadic cases of localized gastrinoma should be excised. In addition, debulking of metastatic tumor may improve symptoms and survival when cure cannot be ascertained. There is, however, some controversy as to the surgical approach for gastrinoma found in the setting of multiple endocrine neoplasia, type 1. Because of the usual multiplicity and particular indolence of these tumors, two primary strategies have emerged: aggressive approaches have been advocated in an effort to eradicate all present and potential tumor; and less aggressive, or nonoperative, approaches have been suggested because it is unclear whether intervention offers survival or disease-free benefit in this population. We advocate surgical intervention for patients with gastrinoma and multiple endocrine neoplasia, type 1 when tumors exceed 2.5 cm in size. This tumor size has been associated with a higher likelihood of hepatic metastases, which ultimately affects survival. The role of adjuvant therapies for gastrinoma remains limited.
+
+Section 2: A Phase III, Randomized, Double-Blind, Active-Controlled, Multicenter Study Evaluating the Safety and Efficacy of Tegoprazan for the Prevention of Peptic Ulcer in Patients on Continuous Long-Term Treatment with Nonsteroidal Anti-Inflammatory Drugs.
+Source: Gut and liver (2026)
+----------------------------------------
+Long-term use of nonsteroidal anti-inflammatory drugs (NSAIDs) increases the risk of peptic ulcers. Tegoprazan, a novel potassium-competitive acid blocker, provides rapid and potent inhibition of acid production. This study evaluated whether tegoprazan 25 mg is non-inferior to lansoprazole 15 mg in preventing NSAID-induced peptic ulcer.
+
+Section 3: Poliprotect vs Omeprazole in the Relief of Heartburn, Epigastric Pain, and Burning in Patients Without Erosive Esophagitis and Gastroduodenal Lesions: A Randomized, Controlled Trial.
+Source: The American journal of gastroenterology (2023)
+----------------------------------------
+In the treatment of upper GI endoscopy-negative patients with heartburn and epigastric pain or burning, antacids, antireflux agents, and mucosal protective agents are widely used, alone or as add-on treatment, to increase response to proton-pump inhibitors, which are not indicated in infancy and pregnancy and account for significant cost expenditure.
+
+Section 4: Banxia Xiexin Decoction in the treatment of Hp-associated peptic ulcer: A protocol for systematic review and meta-analysis.
+Source: Medicine (2021)
+----------------------------------------
+Studies suggested Banxia Xiexin Decoction is effective in the treatment of helicobacter pylori (HP) positive peptic ulcer. The present meta-analysis aimed at evaluating the efficacy and safety of Banxia Xiexin decoction in the treatment HP positive peptic ulcer.
+
+Section 5: Efficacy of Bismuth Quadruple Therapy in the Treatment of Helicobacter pylori-Infected Peptic Ulcer Children in Vietnam.
+Source: Helicobacter (2024)
+----------------------------------------
+The continuous increase in drug-resistant strains, the lack of novel antibiotics, and the fewer options available to combat antibiotic-resistant infections in pediatrics pose significant challenges to the eradication of Helicobacter pylori (H. pylori) in children. This study evaluated the efficacy of first-line therapy with bismuth quadruple therapy in H. pylori-positive pediatric patients with peptic ulcers.
+

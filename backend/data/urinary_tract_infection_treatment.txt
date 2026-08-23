@@ -1,0 +1,23 @@
+Clinical Topic: Urinary Tract Infection Treatment
+============================================================
+
+Section 1: Urinary Tract Infection: Pathogenesis and Outlook.
+Source: Trends in molecular medicine (2016)
+----------------------------------------
+The clinical syndromes comprising urinary tract infection (UTI) continue to exert significant impact on millions of patients worldwide, most of whom are otherwise healthy women. Antibiotic therapy for acute cystitis does not prevent recurrences, which plague up to one fourth of women after an initial UTI. Rising antimicrobial resistance among uropathogenic bacteria further complicates therapeutic decisions, necessitating new approaches based on fundamental biological investigation. In this review, we highlight contemporary advances in the field of UTI pathogenesis and how these might inform both our clinical perspective and future scientific priorities.
+
+Section 2: Contemporary Management of Urinary Tract Infection in Children.
+Source: Pediatrics (2021)
+----------------------------------------
+Urinary tract infection (UTI) is common in children, and girls are at a significantly higher risk, as compared to boys, except in early infancy. Most cases are caused by 
+
+Section 3: Urinary Tract Infection and Bacteriuria in Pregnancy.
+Source: The Urologic clinics of North America (2015)
+----------------------------------------
+Bacteriuria during pregnancy may be classified as asymptomatic bacteriuria, infections of the lower urinary tract (cystitis), or infections of the upper urinary tract (pyelonephritis). Lower tract bacteriuria is associated with an increased risk of developing pyelonephritis in pregnancy, which is itself associated with adverse maternal and fetal outcomes. Pregnant women should be screened for the presence of bacteriuria early in pregnancy. All bacteriuria in pregnancy should be treated, and antimicrobial choice in pregnancy should reflect safety for both the mother and the fetus. After treatment of bacteriuria, patients should be followed closely due to risk of recurrent bacteriuria.
+
+Section 4: Urinary Tract Infection.
+Source: Annals of internal medicine (2017)
+----------------------------------------
+Urinary tract infections (UTIs) are common in both inpatient and outpatient settings. This article provides an evidence-based, clinically relevant overview of management of UTIs, including screening, diagnosis, treatment, and prevention. Conditions covered include acute cystitis (both uncomplicated and complicated), catheter-associated UTI, and asymptomatic bacteriuria in both women and men.
+

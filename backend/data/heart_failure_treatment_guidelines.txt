@@ -1,0 +1,18 @@
+Clinical Topic: Heart Failure Treatment Guidelines
+============================================================
+
+Section 1: Heart Failure: Pathophysiology, Diagnosis, Medical Treatment Guidelines, and Nursing Management.
+Source: The Nursing clinics of North America (2015)
+----------------------------------------
+Heart failure (HF) is a debilitating chronic disease and is expected to increase in upcoming years due to demographic changes. Nurses in all settings have an essential role in supporting patients in managing this disease. This article describes the pathophysiology of HF, diagnosis, medical management, and nursing interventions. It is crucial for nurses to understand the pathophysiology of HF and the importance that nursing actions have on enhancing medical management to alleviate symptoms and to deter the advancement of the pathophysiologic state. Such an understanding can ultimately reduce morbidity and mortality and optimize quality of life in patients with HF.
+
+Section 2: ACVIM consensus guidelines for the diagnosis and treatment of myxomatous mitral valve disease in dogs.
+Source: Journal of veterinary internal medicine (2019)
+----------------------------------------
+This report, issued by the ACVIM Specialty of Cardiology consensus panel, revises guidelines for the diagnosis and treatment of myxomatous mitral valve disease (MMVD, also known as endocardiosis and degenerative or chronic valvular heart disease) in dogs, originally published in 2009. Updates were made to diagnostic, as well as medical, surgical, and dietary treatment recommendations. The strength of these recommendations was based on both the quantity and quality of available evidence supporting diagnostic and therapeutic decisions. Management of MMVD before the onset of clinical signs of heart failure has changed substantially compared with the 2009 guidelines, and new strategies to diagnose and treat advanced heart failure and pulmonary hypertension are reviewed.
+
+Section 3: Heart failure management guidelines: New recommendations and implementation.
+Source: Journal of cardiology (2024)
+----------------------------------------
+The prevalence of heart failure has increased in many developed countries including Japan and the USA, due in large part to the aging of their populations. The lifetime risk of heart failure is now 20-30 % in the USA. Fortunately, there have been important advances in therapy that increase quality and length of life for those with heart failure. This review discusses the important advances in care including treatment and diagnosis and the new recommendations for this care from the recent American College of Cardiology (ACC)/American Heart Association (AHA)/Heart Failure Society of America (HFSA) Guideline. Relevant studies that have been published since the guideline was released are also included. Of the many recommendations in the ACC/AHA/HFSA Guideline, this review focuses on the definition of heart failure, the medical treatments specific to left ventricular ejection fraction, use of devices for treatment and diagnosis, diagnosis and treatment of amyloidosis, treatment of iron deficiency, screening for asymptomatic left ventricular dysfunction, use of patient reported outcomes, and tools for implementation.
+

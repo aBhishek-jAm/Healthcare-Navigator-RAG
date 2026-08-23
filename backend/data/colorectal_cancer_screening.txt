@@ -1,0 +1,28 @@
+Clinical Topic: Colorectal Cancer Screening
+============================================================
+
+Section 1: Screening for Colorectal Cancer.
+Source: The Surgical clinics of North America (2024)
+----------------------------------------
+Colorectal cancer remains the third leading cause of cancer death in the United States. Colorectal cancer screening allows for prevention and early detection of precancerous and cancerous lesions, and screening has been shown to be effective in preventing colorectal cancer deaths. Screening recommendations vary by patient risk profile. A variety of screening modalities exist.
+
+Section 2: Strategies for Colorectal Cancer Screening.
+Source: Gastroenterology (2020)
+----------------------------------------
+The incidence of colorectal cancer (CRC) is increasing worldwide. CRC has high mortality when detected at advanced stages, yet it is also highly preventable. Given the difficulties in implementing major lifestyle changes or widespread primary prevention strategies to decrease CRC risk, screening is the most powerful public health tool to reduce mortality. Screening methods are effective but have limitations. Furthermore, many screen-eligible people remain unscreened. We discuss established and emerging screening methods, and potential strategies to address current limitations in CRC screening. A quantum step in CRC prevention might come with the development of new screening strategies, but great gains can be made by deploying the available CRC screening modalities in ways that optimize outcomes while making judicious use of resources.
+
+Section 3: Colorectal cancer development and advances in screening.
+Source: Clinical interventions in aging (2016)
+----------------------------------------
+Most colon tumors develop via a multistep process involving a series of histological, morphological, and genetic changes that accumulate over time. This has allowed for screening and detection of early-stage precancerous polyps before they become cancerous in individuals at average risk for colorectal cancer (CRC), which may lead to substantial decreases in the incidence of CRC. Despite the known benefits of early screening, CRC remains the second leading cause of cancer-related deaths in the United States. Hence, it is important for health care providers to have an understanding of the risk factors for CRC and various stages of disease development in order to recommend appropriate screening strategies. This article provides an overview of the histological/molecular changes that characterize the development of CRC. It describes the available CRC screening methods and their advantages and limitations and highlights the stages of CRC development in which each screening method is most effective.
+
+Section 4: Colorectal cancer screening: An updated review of the available options.
+Source: World journal of gastroenterology (2017)
+----------------------------------------
+Colorectal cancer (CRC) is a significant cause of morbidity and mortality worldwide. However, colon cancer incidence and mortality is declining over the past decade owing to adoption of effective screening programs. Nevertheless, in some parts of the world, CRC incidence and mortality remain on the rise, likely due to factors including "westernized" diet, lifestyle, and lack of health-care infrastructure and resources. Participation and adherence to different national screening programs remain obstacles limiting the achievement of screening goals. Different modalities are available ranging from stool based tests to radiology and endoscopy with varying sensitivity and specificity. However, the availability of these tests is limited to areas with high economic resources. Recently, FDA approved a blood-based test (Epi procolon
+
+Section 5: An Update on the Epidemiology, Molecular Characterization, Diagnosis, and Screening Strategies for Early-Onset Colorectal Cancer.
+Source: Gastroenterology (2021)
+----------------------------------------
+Rising trends in the incidence and mortality of early-onset colorectal cancer (CRC) in those who are younger than 50 years have been well established. These trends have spurred intense investigation focused on elucidating the epidemiology and characteristics of early-onset CRC, as well as on identifying strategies for early detection and prevention. In this review, we provide a contemporary update on early-onset CRC with a particular focus on epidemiology, molecular characterization, red flag signs and symptoms, and screening for early-onset CRC.
+

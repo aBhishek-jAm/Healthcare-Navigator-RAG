@@ -1,0 +1,23 @@
+Clinical Topic: Chronic Obstructive Pulmonary Disease
+============================================================
+
+Section 1: Chronic Obstructive Pulmonary Disease.
+Source: Critical care nursing quarterly (2016)
+----------------------------------------
+Chronic obstructive pulmonary disease (COPD) is a chronic smoking-related lung disease associated with significant mortality and morbidity. It carries an enormous economic burden on the health care system. This results in a significant social impact on affected patients and their families. In this article, we review COPD in general, critical care management of patients presenting with acute exacerbation of COPD, and methods of prevention.
+
+Section 2: Definition, Causes, Pathogenesis, and Consequences of Chronic Obstructive Pulmonary Disease Exacerbations.
+Source: Clinics in chest medicine (2020)
+----------------------------------------
+Acute exacerbations of chronic obstructive pulmonary disease (AECOPD) are episodes of symptom worsening which have significant adverse consequences for patients. Exacerbations are highly heterogeneous events associated with increased airway and systemic inflammation and physiological changes. The frequency of exacerbations is associated with accelerated lung function decline, quality of life impairment and increased mortality. They are triggered predominantly by respiratory viruses and bacteria, which infect the lower airway and increase airway inflammation. A proportion of patients appear to be more susceptible to exacerbations, with poorer quality of life and more aggressive disease progression than those who have infrequent exacerbations. Exacerbations also contribute significantly to healthcare expenditure. Prevention and mitigation of exacerbations are therefore key goals of COPD management.
+
+Section 3: Analyses of Factors Associated with Acute Exacerbations of Chronic Obstructive Pulmonary Disease: A Review.
+Source: International journal of chronic obstructive pulmonary disease (2023)
+----------------------------------------
+Acute exacerbations of chronic obstructive pulmonary disease (AECOPD) is the exacerbation of a range of respiratory symptoms during the stable phase of chronic obstructive pulmonary disease (COPD). AECOPD is thus a dangerous stage and key event in the course of COPD, as its deterioration and frequency seriously affects the quality of life of patients and shortens their survival. Acute exacerbations occur and develop due to many factors such as infection, tobacco smoke inhalation, air pollution, comorbidities, airflow limitation, various biomarkers, history of previous deterioration, natural killer cell abnormalities, immunoglobulin G deficiency, genetics, abnormal muscle and nutritional status, negative psychology, and seasonal temperature changes. There is relatively limited research on the impact of the role of standardized management on the alleviation of AECOPD. However, with the establishment of relevant prevention and management systems and the promotion of artificial intelligence technology and Internet medical approaches, long-term effective and standardized management of COPD patients may help to achieve the quality of life and disease prognosis in COPD patients and reduce the risk of AE.
+
+Section 4: Macrophage Polarization and Functions in Pathogenesis of Chronic Obstructive Pulmonary Disease.
+Source: International journal of molecular sciences (2024)
+----------------------------------------
+Chronic obstructive pulmonary disease (COPD), the major leading cause of mortality worldwide, is a progressive and irreversible respiratory condition characterized by peripheral airway and lung parenchymal inflammation, accompanied by fibrosis, emphysema, and airflow limitation, and has multiple etiologies, including genetic variance, air pollution, and repetitive exposure to harmful substances. However, the precise mechanisms underlying the pathogenesis of COPD have not been identified. Recent multiomics-based evidence suggests that the plasticity of alveolar macrophages contributes to the onset and progression of COPD through the coordinated modulation of numerous transcription factors. Therefore, this review focuses on understanding the mechanisms and functions of macrophage polarization that regulate lung homeostasis in COPD. These findings may provide a better insight into the distinct role of macrophages in COPD pathogenesis and perspective for developing novel therapeutic strategies targeting macrophage polarization.
+

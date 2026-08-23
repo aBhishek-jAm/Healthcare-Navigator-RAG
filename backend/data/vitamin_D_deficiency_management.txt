@@ -1,0 +1,28 @@
+Clinical Topic: Vitamin D Deficiency Management
+============================================================
+
+Section 1: Vitamin D deficiency in children and its management: review of current knowledge and recommendations.
+Source: Pediatrics (2008)
+----------------------------------------
+Given the recent spate of reports of vitamin D deficiency, there is a need to reexamine our understanding of natural and other sources of vitamin D, as well as mechanisms whereby vitamin D synthesis and intake can be optimized. This state-of-the-art report from the Drug and Therapeutics Committee of the Lawson Wilkins Pediatric Endocrine Society was aimed to perform this task and also reviews recommendations for sun exposure and vitamin D intake and possible caveats associated with these recommendations.
+
+Section 2: Multiple sclerosis.
+Source: Lancet (London, England) (2018)
+----------------------------------------
+Multiple sclerosis continues to be a challenging and disabling condition but there is now greater understanding of the underlying genetic and environmental factors that drive the condition, including low vitamin D levels, cigarette smoking, and obesity. Early and accurate diagnosis is crucial and is supported by diagnostic criteria, incorporating imaging and spinal fluid abnormalities for those presenting with a clinically isolated syndrome. Importantly, there is an extensive therapeutic armamentarium, both oral and by infusion, for those with the relapsing remitting form of the disease. Careful consideration is required when choosing the correct treatment, balancing the side-effect profile with efficacy and escalating as clinically appropriate. This move towards more personalised medicine is supported by a clinical guideline published in 2018. Finally, a comprehensive management programme is strongly recommended for all patients with multiple sclerosis, enhancing health-related quality of life through advocating wellness, addressing aggravating factors, and managing comorbidities. The greatest remaining challenge for multiple sclerosis is the development of treatments incorporating neuroprotection and remyelination to treat and ultimately prevent the disabling, progressive forms of the condition.
+
+Section 3: Sunlight, UV Radiation, Vitamin D, and Skin Cancer: How Much Sunlight Do We Need?
+Source: Advances in experimental medicine and biology (2020)
+----------------------------------------
+Vitamin D is the sunshine vitamin for good reason. During exposure to sunlight, the ultraviolet B photons enter the skin and photolyze 7-dehydrocholesterol to previtamin D
+
+Section 4: Vitamin D deficiency: Diagnosis and patient centred management.
+Source: JPMA. The Journal of the Pakistan Medical Association (2015)
+----------------------------------------
+This comprehensive review addresses the issue of Vitamin D deficiency and its management in adults. Briefly describing the history of Vitamin D development and its role in human physiology, it discusses D deficiency in adults. Pragmatic suggestion for diagnosis, choice of therapy, and monitoring are presented from a patient-centred viewpoint, keeping socioeconomic realities in perspective. The review adds to current medical literature by collating evidence in a format that will be useful to practicing clinicians.
+
+Section 5: Diagnosis and management of vitamin D deficiency in the Gulf Cooperative Council (GCC) countries: an expert consensus summary statement from the GCC vitamin D advisory board.
+Source: Archives of osteoporosis (2020)
+----------------------------------------
+A summary of recommendations is given within the Gulf Cooperation Council (GCC) setting on the assessment and management of vitamin D deficiency in the region.
+

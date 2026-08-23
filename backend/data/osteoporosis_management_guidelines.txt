@@ -1,0 +1,28 @@
+Clinical Topic: Osteoporosis Management Guidelines
+============================================================
+
+Section 1: Postmenopausal Osteoporosis: A Review of Latest Guidelines.
+Source: Endocrinology and metabolism clinics of North America (2024)
+----------------------------------------
+Osteoporosis is characterized by increased bone turnover and reduced bone mass, leading to skeletal fragility and heightened fracture risk. It is a growing public health concern with expectations for a continued significant rise of fractures by 50% in 2030. Diagnosis is typically based on body mineral density with a T-score of -2.5 or lower indicating osteoporosis. Treatment duration varies, and is determined by careful monitoring of fracture risk and timing for potential drug holidays. Emerging therapies and ongoing research continue to evolve the landscape of osteoporosis management, aiming to reduce fracture risk and improve patient outcomes.
+
+Section 2: Evaluation of Clinical Practice Guidelines on Fall Prevention and Management for Older Adults: A Systematic Review.
+Source: JAMA network open (2021)
+----------------------------------------
+With the global population aging, falls and fall-related injuries are ubiquitous, and several clinical practice guidelines for falls prevention and management for individuals 60 years or older have been developed. A systematic evaluation of the recommendations and agreement level is lacking.
+
+Section 3: Similarities and differences between European guidelines for the management of postmenopausal osteoporosis.
+Source: Archives of osteoporosis (2024)
+----------------------------------------
+We conducted a review of 10 national guidelines from five EU countries to identify similarities or differences in recommendations for the management of patients with osteoporosis. We found general alignment of key recommendations; however, there are notable differences, largely attributed to country-specific approaches to risk assessment and reimbursement conditions.
+
+Section 4: Postmenopausal Osteoporosis: Latest Guidelines.
+Source: Endocrinology and metabolism clinics of North America (2021)
+----------------------------------------
+Significant development has occurred in the treatment of postmenopausal osteoporosis. We review the most recent guidelines from the American Association of Clinical Endocrinologists/American College of Endocrinology, Endocrine Society, and the European Society for Clinical and Economic Aspects of Osteoporosis and Osteoarthritis/International Osteoporosis Foundation Guidelines.
+
+Section 5: Pharmacological Management of Osteoporosis in Postmenopausal Women: An Endocrine Society* Clinical Practice Guideline.
+Source: The Journal of clinical endocrinology and metabolism (2019)
+----------------------------------------
+The objective is to formulate clinical practice guidelines for the pharmacological management of osteoporosis in postmenopausal women.
+

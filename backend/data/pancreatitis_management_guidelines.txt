@@ -1,0 +1,28 @@
+Clinical Topic: Pancreatitis Management Guidelines
+============================================================
+
+Section 1: American College of Gastroenterology Guidelines: Management of Acute Pancreatitis.
+Source: The American journal of gastroenterology (2024)
+----------------------------------------
+Acute pancreatitis (AP), defined as acute inflammation of the pancreas, is one of the most common diseases of the gastrointestinal tract leading to hospital admission in the United States. It is important for clinicians to appreciate that AP is heterogenous, progressing differently among patients and is often unpredictable. While most patients experience symptoms lasting a few days, almost one-fifth of patients will go on to experience complications, including pancreatic necrosis and/or organ failure, at times requiring prolonged hospitalization, intensive care, and radiologic, surgical, and/or endoscopic intervention. Early management is essential to identify and treat patients with AP to prevent complications. Patients with biliary pancreatitis typically will require surgery to prevent recurrent disease and may need early endoscopic retrograde cholangiopancreatography if the disease is complicated by cholangitis. Nutrition plays an important role in treating patients with AP. The safety of early refeeding and importance in preventing complications from AP are addressed. This guideline will provide an evidence-based practical approach to the management of patients with AP.
+
+Section 2: 2019 WSES guidelines for the management of severe acute pancreatitis.
+Source: World journal of emergency surgery : WJES (2019)
+----------------------------------------
+Although most patients with acute pancreatitis have the mild form of the disease, about 20-30% develops a severe form, often associated with single or multiple organ dysfunction requiring intensive care. Identifying the severe form early is one of the major challenges in managing severe acute pancreatitis. Infection of the pancreatic and peripancreatic necrosis occurs in about 20-40% of patients with severe acute pancreatitis, and is associated with worsening organ dysfunctions. While most patients with sterile necrosis can be managed nonoperatively, patients with infected necrosis usually require an intervention that can be percutaneous, endoscopic, or open surgical. These guidelines present evidence-based international consensus statements on the management of severe acute pancreatitis from collaboration of a panel of experts meeting during the World Congress of Emergency Surgery in June 27-30, 2018 in Bertinoro, Italy. The main topics of these guidelines fall under the following topics: Diagnosis, Antibiotic treatment, Management in the Intensive Care Unit, Surgical and operative management, and Open abdomen.
+
+Section 3: IAP/APA evidence-based guidelines for the management of acute pancreatitis.
+Source: Pancreatology : official journal of the International Association of Pancreatology (IAP) ... [et al.] (2013)
+----------------------------------------
+There have been substantial improvements in the management of acute pancreatitis since the publication of the International Association of Pancreatology (IAP) treatment guidelines in 2002. A collaboration of the IAP and the American Pancreatic Association (APA) was undertaken to revise these guidelines using an evidence-based approach.
+
+Section 4: International Association of Pancreatology Revised Guidelines on Acute Pancreatitis 2025: Supported and Endorsed by the American Pancreatic Association, European Pancreatic Club, Indian Pancreas Club, and Japan Pancreas Society.
+Source: Pancreatology : official journal of the International Association of Pancreatology (IAP) ... [et al.] (2025)
+----------------------------------------
+The International Association of Pancreatology, alongside the American Pancreatic Association, the European Pancreatic Club, the Indian Pancreas Club, and the Japan Pancreas Society, decided to update its earlier guidelines for the management of acute pancreatitis (AP) given the remarkable advances in our understanding of AP and its management over the last decade.
+
+Section 5: EPC/HPSG evidence-based guidelines for the management of pediatric pancreatitis.
+Source: Pancreatology : official journal of the International Association of Pancreatology (IAP) ... [et al.] (2018)
+----------------------------------------
+Pediatric pancreatitis is an underdiagnosed disease with variable etiology. In the past 10-15 years the incidence of pediatric pancreatitis has increased, it is now 3.6-13.3 cases per 100,000 children. Up-to-date evidence based management guidelines are lacking for the pediatric pancreatitis. The European Pancreatic Club, in collaboration with the Hungarian Pancreatic Study Group organized a consensus guideline meeting on the diagnosis and management of pancreatitis in the pediatric population.
+

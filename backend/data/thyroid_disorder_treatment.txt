@@ -1,0 +1,28 @@
+Clinical Topic: Thyroid Disorder Treatment
+============================================================
+
+Section 1: Thyroid Disease in Pregnancy: ACOG Practice Bulletin, Number 223.
+Source: Obstetrics and gynecology (2020)
+----------------------------------------
+Both thyrotoxicosis and hypothyroidism are associated with adverse pregnancy outcomes. There also is concern about the effect of overt maternal thyroid disease on fetal development. In addition, medications that affect the maternal thyroid gland can cross the placenta and affect the fetal thyroid gland. This document reviews the thyroid-related pathophysiologic changes that occur during pregnancy and the effects of overt and subclinical maternal thyroid disease on maternal and fetal outcomes. This Practice Bulletin has been updated with information on the diagnosis and the management of thyroid disease in pregnant women and includes a new clinical algorithm on management of thyroid disease in pregnancy.
+
+Section 2: Testing, Monitoring, and Treatment of Thyroid Dysfunction in Pregnancy.
+Source: The Journal of clinical endocrinology and metabolism (2021)
+----------------------------------------
+Both hyperthyroidism and hypothyroidism can have adverse effects in pregnancy. The most common causes of thyrotoxicosis in pregnancy are gestational transient thyrotoxicosis and Graves' disease. It is important to distinguish between these entities as treatment options differ. Women of reproductive age who are diagnosed with Graves' disease should be counseled regarding the impact of treatment options on a potential pregnancy. Although the absolute risk is small, antithyroid medications can have teratogenic effects. Propylthiouracil appears to have less severe teratogenicity compared to methimazole and is therefore favored during the first trimester if a medication is needed. Women should be advised to delay pregnancy for at least 6 months following radioactive iodine to minimize potential adverse effects from radiation and ensure normal thyroid hormone levels prior to conception. As thyroid hormone is critical for normal fetal development, hypothyroidism is associated with adverse obstetric and child neurodevelopmental outcomes. Women with overt hypothyroidism should be treated with levothyroxine (LT4) to a thyrotropin (thyroid-stimulating hormone; TSH) goal of <2.5 mIU/L. There is mounting evidence for associations of maternal hypothyroxinemia and subclinical hypothyroidism with pregnancy loss, preterm labor, and lower scores on child cognitive assessment. Although there is minimal risk of LT4 treatment to keep TSH within the pregnancy-specific reference range, treatment of mild maternal thyroid hypofunction remains controversial, given the lack of clinical trials showing improved outcomes with LT4 treatment.
+
+Section 3: Thyroid Disorders in Children and Adolescents: A Review.
+Source: JAMA pediatrics (2016)
+----------------------------------------
+Normal thyroid gland function is critical for early neurocognitive development, as well as for growth and development throughout childhood and adolescence. Thyroid disorders are common, and attention to physical examination findings, combined with selected laboratory and radiologic tools, aids in the early diagnosis and treatment.
+
+Section 4: Lithium for Bipolar Disorder and Risk of Thyroid Dysfunction and Chronic Kidney Disease.
+Source: JAMA network open (2025)
+----------------------------------------
+Literature indicates adverse effects of lithium on thyroid and kidney function. However, existing data are heterogeneous, with limitations in quality and lack evaluation of adverse effects of lithium vs other mood stabilizers, especially commonly prescribed second-generation antipsychotics. Lithium serum level thresholds associated with thyroid and kidney abnormalities remain unknown.
+
+Section 5: Hirsutism in Women.
+Source: American family physician (2019)
+----------------------------------------
+Hirsutism is the excessive growth of terminal hair in a typical male pattern in a female. It is often a sign of excessive androgen levels. Although many conditions can lead to hirsutism, polycystic ovary syndrome and idiopathic hyperandrogenism account for more than 85% of cases. Less common causes include idiopathic hirsutism, nonclassic congenital adrenal hyperplasia, androgen-secreting tumors, medications, hyperprolactinemia, thyroid disorders, and Cushing syndrome. Women with an abnormal hirsutism score based on the Ferriman-Gallwey scoring system should be evaluated for elevated androgen levels. Women with rapid onset of hirsutism over a few months or signs of virilization are at high risk of having an androgen-secreting tumor. Hirsutism may be treated with pharmacologic agents and/or hair removal. Recommended pharmacologic therapies include combined oral contraceptives, finasteride, spironolactone, and topical eflornithine. Because of the length of the hair growth cycle, therapies should be tried for at least six months before switching treatments. Hair removal methods such as shaving, waxing, and plucking may be effective, but their effects are temporary. Photoepilation and electrolysis are somewhat effective for long-term hair removal but are expensive.
+

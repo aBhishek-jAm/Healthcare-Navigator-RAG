@@ -1,0 +1,28 @@
+Clinical Topic: Parkinson Disease Treatment
+============================================================
+
+Section 1: Diagnosis and Treatment of Parkinson Disease: A Review.
+Source: JAMA (2020)
+----------------------------------------
+Parkinson disease is the most common form of parkinsonism, a group of neurological disorders with Parkinson disease-like movement problems such as rigidity, slowness, and tremor. More than 6 million individuals worldwide have Parkinson disease.
+
+Section 2: Treatment of Motor Symptoms of Parkinson's Disease.
+Source: Neurologic clinics (2025)
+----------------------------------------
+The most effective pharmacologic intervention used to treat motor symptoms in Parkinson's disease is levodopa, which is available in various formulations, including newer continuous subcutaneous infusions. Dopamine agonists, monoamine oxidase-B enzyme inhibitors, catechol-O-methyltransferase enzyme inhibitors, amantadine, istradefylline, and anticholinergics can be used as adjuncts to levodopa. With disease progression, pharmacologic interventions alone may not suffice to manage motor symptoms, making it necessary to consider device-aided therapies (eg, levodopa-carbidopa intestinal gel infusion, continuous subcutaneous infusions of apomorphine, levodopa, or foslevodopa) or invasive surgical techniques (eg, deep brain stimulation or MRI-guided high-frequency focused ultrasound).
+
+Section 3: Exercise as medicine in Parkinson's disease.
+Source: Journal of neurology, neurosurgery, and psychiatry (2024)
+----------------------------------------
+Parkinson's disease (PD) is an incurable and progressive neurological disorder leading to deleterious motor and non-motor consequences. Presently, no pharmacological agents can prevent PD evolution or progression, while pharmacological symptomatic treatments have limited effects in certain domains and cause side effects. Identification of interventions that prevent, slow, halt or mitigate the disease is therefore pivotal. Exercise is safe and represents a cornerstone in PD rehabilitation, but exercise may have even more fundamental benefits that could change clinical practice. In PD, the existing knowledge base supports exercise as (1) a protective lifestyle factor preventing the disease (ie, primary prevention), (2) a potential disease-modifying therapy (ie, secondary prevention) and (3) an effective symptomatic treatment (ie, tertiary prevention). Based on current evidence, a paradigm shift is proposed, stating that exercise should be individually prescribed as medicine to persons with PD at an early disease stage, alongside conventional medical treatment.
+
+Section 4: Progress towards therapies for disease modification in Parkinson's disease.
+Source: The Lancet. Neurology (2021)
+----------------------------------------
+The development of interventions to slow or halt the progression of Parkinson's disease remains a priority for patients and researchers alike. To date, no agents have been shown to have unequivocal evidence of disease-modifying effects in Parkinson's disease. The absence of disease-modifying treatments might relate not only to inadequate approaches for the selection of therapeutic candidates but also to insufficient attention to detail in clinical trial design. Better understanding of Parkinson's disease pathogenesis associated with advances in laboratory models, the use of objective biomarkers of disease progression and target engagement, and a focus on agents known to be safe for human use, alongside the use of precision medicine approaches, should together greatly increase the likelihood for successful identification of disease-modifying treatments for Parkinson's disease.
+
+Section 5: Non-motor symptoms of Parkinson's disease: diagnosis and management.
+Source: The Lancet. Neurology (2006)
+----------------------------------------
+The clinical diagnosis of Parkinson's disease rests on the identification of the characteristics related to dopamine deficiency that are a consequence of degeneration of the substantia nigra pars compacta. However, non-dopaminergic and non-motor symptoms are sometimes present before diagnosis and almost inevitably emerge with disease progression. Indeed, non-motor symptoms dominate the clinical picture of advanced Parkinson's disease and contribute to severe disability, impaired quality of life, and shortened life expectancy. By contrast with the dopaminergic symptoms of the disease, for which treatment is available, non-motor symptoms are often poorly recognised and inadequately treated. However, attention is now being focused on the recognition and quantitation of non-motor symptoms, which will form the basis of improved treatments. Some non-motor symptoms, including depression, constipation, pain, genitourinary problems, and sleep disorders, can be improved with available treatments. Other non-motor symptoms can be more refractory and need the introduction of novel non-dopaminergic drugs. Inevitably, the development of treatments that can slow or prevent the progression of Parkinson's disease and its multicentric neurodegeneration provides the best hope of curing non-motor symptoms.
+

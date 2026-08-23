@@ -1,0 +1,28 @@
+Clinical Topic: Eczema Dermatitis Management
+============================================================
+
+Section 1: Diagnosis and Management of Dermatitis, Including Atopic, Contact, and Hand Eczemas.
+Source: The Medical clinics of North America (2021)
+----------------------------------------
+This is a comprehensive and current guide for the diagnosis, differential diagnosis, treatment, and management of eczematous dermatitis, with a focus on atopic dermatitis, irritant and allergic contact dermatitis, hand dermatitis including recurrent vesicular and hyperkeratotic types, asteatotic dermatitis, and nummular or discoid dermatitis. Diagnostic options highlighted are clinical history, physical examination, and patch testing. Therapeutic options highlighted are moisturizers, topical corticosteroids, topical calcineurin inhibitors, crisaborole, phototherapy, and systemic medications including biologics.
+
+Section 2: Hand eczema.
+Source: Lancet (London, England) (2024)
+----------------------------------------
+Hand eczema is a highly prevalent skin disease and one of the most common work-related disorders. In up to two-thirds of individuals affected by hand eczema, the disease becomes chronic and results in substantial personal and occupational disability. Manifestations of chronic hand eczema vary in severity and appearance over time, and people with eczema typically experience itch, pain, and a burning sensation. The pathophysiology of chronic hand eczema is multifactorial. Major risk factors are current or past atopic dermatitis and excessive or prolonged exposure to irritants or allergens. Based on the suspected main causes, chronic hand eczema is commonly classified into irritant, allergic, and atopic hand eczema. Diagnosis and assessment can be complex, and management is often challenging. Strategies include structured education, avoidance of trigger factors, primary to tertiary prevention, topical anti-inflammatory treatment with glucocorticosteroids, calcineurin inhibitors, or januskinase inhibitors, phototherapy, systemic retinoids, and off-label use of immunosuppressive drugs. Topical and systemic immunomodulatory therapies approved for atopic dermatitis could be used in severe atopic hand eczema and some of them are under clinical development for chronic hand eczema. Additional research is needed to better understand chronic hand eczema subtypes and underlying mechanisms, and the comparative effectiveness and safety of therapies. This Review combines established knowledge with ongoing changes in our understanding of the disease and their implications for prevention, management, and future research.
+
+Section 3: Emollients and moisturisers for eczema.
+Source: The Cochrane database of systematic reviews (2017)
+----------------------------------------
+Eczema is a chronic skin disease characterised by dry skin, intense itching, inflammatory skin lesions, and a considerable impact on quality of life. Moisturisation is an integral part of treatment, but it is unclear if moisturisers are effective.
+
+Section 4: Management of Chronic Hand Eczema.
+Source: Actas dermo-sifiliograficas (2015)
+----------------------------------------
+Management of hand eczema is complex because of the broad range of different pathogeneses, courses, and prognoses. Furthermore, the efficacy of most available treatments is not well established and the more severe forms can have a major impact on the patient's quality of life. Patient education, preventive measures, and the use of emollients are the mainstays in the management of hand eczema. High-potency topical corticosteroids are the treatment of choice, with calcineurin inhibitors used for maintenance. Phototherapy or systemic treatments are indicated in patients who do not respond to topical treatments. Switching from topical treatments should not be delayed to avoid sensitizations, time off work, and a negative impact on quality of life. Alitretinoin is the only oral treatment approved for use in chronic hand eczema.
+
+Section 5: Eczema management in school-aged children.
+Source: Australian family physician (2017)
+----------------------------------------
+Atopic eczema is a relapsing inflammatory skin condition that can be lifelong. Management of eczema is often focused on infants, with many school-aged children undertreated. Uncontrolled eczema has a significant impact on the quality of life of the child and their family.
+

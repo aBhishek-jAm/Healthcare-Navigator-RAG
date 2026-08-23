@@ -1,0 +1,28 @@
+Clinical Topic: Obesity Management Clinical Guidelines
+============================================================
+
+Section 1: Mexican Clinical Practice Guidelines for Adult Overweight and Obesity Management.
+Source: Current obesity reports (2024)
+----------------------------------------
+To develop Mexico's first methodologically rigorous clinical practice guideline for the management of adult overweight and obesity. The target audiences are interdisciplinary healthcare professionals across healthcare systems who are the first point of contact for patients with obesity in Mexico, patients, and health system decision makers.
+
+Section 2: Obesity Management in Adults: A Review.
+Source: JAMA (2023)
+----------------------------------------
+Obesity affects approximately 42% of US adults and is associated with increased rates of type 2 diabetes, hypertension, cardiovascular disease, sleep disorders, osteoarthritis, and premature death.
+
+Section 3: Pharmacotherapy for obesity management in adults: 2025 clinical practice guideline update.
+Source: CMAJ : Canadian Medical Association journal = journal de l'Association medicale canadienne (2025)
+----------------------------------------
+Pharmacotherapy is a key component of comprehensive obesity management, alongside behavioural therapy and metabolic and bariatric surgery. In this guideline, we update the pharmacotherapy recommendations in the 2020 Canadian clinical practice guideline on obesity in adults and in the 2022 pharmacotherapy for obesity management revision to provide current recommendations for clinicians on the efficacy, safety, and appropriate use of pharmacotherapy in the management of obesity in adults.
+
+Section 4: Clinical practice guidelines for the management of overweight and obesity published internationally: A scoping review.
+Source: Obesity reviews : an official journal of the International Association for the Study of Obesity (2024)
+----------------------------------------
+With the increasing prevalence of obesity placing additional demands on healthcare systems, many jurisdictions and professional bodies have developed clinical practice guidelines to support practitioners in the management of people with overweight and obesity. This scoping review aimed to identify key features of contemporary guidelines for the clinical management of overweight and obesity. Searches of MEDLINE, Guidelines International Network's international guidelines library, and other grey literature sources identified 38 guidelines of 18 countries and one region published since 2010. Guidelines were developed by committees (n = 36, 95%) that comprised knowledgeable experts (n = 36, 95%) and were multidisciplinary (n = 33, 87%), with limited consumer representation (n = 11, 29%). Guideline documentation incorporated review questions (n = 23, 61%), systematic reviews (n = 25, 66%), evidence grading systems (n = 33, 87%), processes for reaching consensus (n = 19, 50%), and guideline review details (n = 28, 74%). Treatment approaches included in most guidelines were nutrition and physical activity (n = 38, 100%), psychology (n = 37, 97%), pharmacotherapy (n = 32, 84%), and bariatric surgery (n = 31, 82%). Most guidelines targeted populations based on age (n = 30, 79%). Guidelines contained recommendations for pregnancy (n = 12, 32%), older adults (n = 9, 24%), and people with eating disorders (n = 8, 21%). Future guidelines would benefit from involvement of consumers including groups known to be at increased risk of overweight and obesity, targeted guidance for at risk groups, and consideration of weight bias and stigma.
+
+Section 5: IFSO Consensus on Definitions and Clinical Practice Guidelines for Obesity Management-an International Delphi Study.
+Source: Obesity surgery (2024)
+----------------------------------------
+This survey of international experts in obesity management was conducted to achieve consensus on standardized definitions and to identify areas of consensus and non-consensus in metabolic bariatric surgery (MBS) to assist in an algorithm of clinical practice guidelines for the management of obesity.
+

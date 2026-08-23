@@ -1,0 +1,23 @@
+Clinical Topic: Cervical Cancer Screening Protocol
+============================================================
+
+Section 1: Human papillomavirus-based cervical screening and long-term cervical cancer risk: a randomised health-care policy trial in Sweden.
+Source: The Lancet. Public health (2024)
+----------------------------------------
+Human papillomavirus (HPV)-based cervical screening is a globally recommended public health policy. Randomised clinical trials find superior performance of primary HPV-based screening compared with cytology for preventing cervical cancer. However, additional evidence from real-world public health policies is needed. In preplanned secondary analysis of a randomised health-care policy trial in Sweden we aimed to evaluate which policy provided better protection against invasive cervical cancer, after two full rounds of screening.
+
+Section 2: Cervical Cancer, Version 3.2019, NCCN Clinical Practice Guidelines in Oncology.
+Source: Journal of the National Comprehensive Cancer Network : JNCCN (2019)
+----------------------------------------
+Cervical cancer is a malignant epithelial tumor that forms in the uterine cervix. Most cases of cervical cancer are preventable through human papilloma virus (HPV) vaccination, routine screening, and treatment of precancerous lesions. However, due to inadequate screening protocols in many regions of the world, cervical cancer remains the fourth-most common cancer in women globally. The complete NCCN Guidelines for Cervical Cancer provide recommendations for the diagnosis, evaluation, and treatment of cervical cancer. This manuscript discusses guiding principles for the workup, staging, and treatment of early stage and locally advanced cervical cancer, as well as evidence for these recommendations. For recommendations regarding treatment of recurrent or metastatic disease, please see the full guidelines on NCCN.org.
+
+Section 3: Electronic Health Interventions and Cervical Cancer Screening: Systematic Review and Meta-Analysis.
+Source: Journal of medical Internet research (2024)
+----------------------------------------
+Cervical cancer is a significant cause of mortality in women. Although screening has reduced cervical cancer mortality, screening rates remain suboptimal. Electronic health interventions emerge as promising strategies to effectively tackle this issue.
+
+Section 4: Primary HPV screening for cervical cancer.
+Source: Best practice & research. Clinical obstetrics & gynaecology (2020)
+----------------------------------------
+Cytology-based cervical screening had unequivocal success in reducing the incidence and mortality of cervical cancer in the last century. The recognition of the role of human papillomavirus (HPV) as a necessary cause of cervical cancer led to the development of HPV testing. Gradually, there has been a shift from reflex HPV testing for mild cytological abnormalities, to co-testing with cytology and HPV, and lately to primary HPV screening, based on evidence from well-designed large randomized controlled trials and meta-analyses. Advantages of primary HPV screening include higher sensitivity to detect pre-neoplastic lesions, better re-assurance with a negative test, and safe prolongation of screening intervals. However, clinicians and policy makers must ensure the availability of clinically validated HPV assays and triage protocols of screen positive cases prior to implementation of primary HPV screening. This is likely to reduce potential harm from over-treatment as well as extra burden on the health care system.
+

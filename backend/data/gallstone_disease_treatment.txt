@@ -1,0 +1,28 @@
+Clinical Topic: Gallstone Disease Treatment
+============================================================
+
+Section 1: The Treatment of Gallstone Disease.
+Source: Deutsches Arzteblatt international (2020)
+----------------------------------------
+Gallstone disease affects up to 20% of the European population, and cholelithiasis is the most common reason for hospitalization in gastroenterology.
+
+Section 2: Management of Gallstone Disease.
+Source: The Surgical clinics of North America (2024)
+----------------------------------------
+Gallstone disease has plagued humanity since antiquity. Its recognition and treatment has been refined through decades as surgical technique and imaging capabilities have advanced. With the rise of the obesity epidemic and metabolic syndrome, its prevalence is also increasing. This review provides an overview of the various manifestations of gallstone disease and treatment modalities appropriate for its resolution.
+
+Section 3: Risk Factors for Cholelithiasis.
+Source: Gastroenterology nursing : the official journal of the Society of Gastroenterology Nurses and Associates (2016)
+----------------------------------------
+Gallstone disease is one of the most common public health problems in the United States. Approximately 10%-20% of the national adult populations currently carry gallstones, and gallstone prevalence is rising. In addition, nearly 750,000 cholecystectomies are performed annually in the United States; direct and indirect costs of gallbladder surgery are estimated to be $6.5 billion. Cholelithiasis is also strongly associated with gallbladder, pancreatic, and colorectal cancer occurrence. Moreover, the National Institutes of Health estimates that almost 3,000 deaths (0.12% of all deaths) per year are attributed to complications of cholelithiasis and gallbladder disease. Although extensive research has tried to identify risk factors for cholelithiasis, several studies indicate that definitive findings still remain elusive. In this review, predisposing factors for cholelithiasis are identified, the pathophysiology of gallstone disease is described, and nonsurgical preventive options are discussed. Understanding the risk factors for cholelithiasis may not only be useful in assisting nurses to provide resources and education for patients who are diagnosed with gallstones, but also in developing novel preventive measures for the disease.
+
+Section 4: Ursodeoxycholic acid treatment of cholesterol gallstone disease.
+Source: Scandinavian journal of gastroenterology. Supplement (1994)
+----------------------------------------
+Bile acid dissolution therapy alone or in combination with extracorporeal shock-wave lithotripsy continues to be a safe and effective non-surgical treatment for highly selected patients with cholesterol gallstone disease. Its disadvantages are the duration of drug treatment and potential stone recurrence. Its advantages, however, are non-invasiveness, low rate of morbidity, and lack of mortality. Considering the variety of options in modern gallstone therapy, the careful selection of treatment should be tailored to the individual patient's clinical and personal situation. This will involve the patient in the decision-making process.
+
+Section 5: Nonsurgical treatment of gallstone disease.
+Source: Annual review of medicine (1990)
+----------------------------------------
+Gallstones can now be treated nonsurgically as well as surgically. The current view is that only symptomatic gallstones should be treated; of these, only cholesterol gallstones can be treated nonsurgically. Cholesterol gallstones in a functioning gallbladder will dissolve slowly when the secretion of unsaturated bile is induced by the ingestion of ursodiol or chenodiol, which are naturally occurring bile acids. Stone dissolution can be accelerated by increasing the surface area via extracorporeal shock wave lithotripsy, which fragments stones rapidly and safely, enhancing their dissolution rate. A technique is being developed in which a catheter is inserted into the gallbladder via either a percutaneous transhepatic or endoscopic route and an organic solvent such as methyl tert-butyl ether is instilled, dissolving the stones rapidly without major side effects. Gallstones will eventually recur in about half of the patients treated by these nonsurgical approaches, because the gallbladder is left in place and the fundamental pathogenic abnormalities associated with this common disease are not corrected. However, the rate of recurrence of symptomatic gallstone disease is lower.
+

@@ -1,0 +1,13 @@
+Clinical Topic: Tuberculosis Treatment Protocol
+============================================================
+
+Section 1: Tuberculosis.
+Source: Seminars in ophthalmology (2005)
+----------------------------------------
+Tuberculosis is caused by Mycobacterium tuberculosis, transmitted primarily by inhalation of aerosolized droplets containing the organisms. There is an infection of the respiratory tract and the tubercle bacilli spread via lymphatic system and bloodstream to many different organs. Generally, the pulmonary tuberculosis infections are asymptomatic and a positive skin test result is the only indication of it. Approximately 10% of infected individuals develop active disease. Immunosuppression caused by systemic diseases or medication increases the risk of developing tuberculosis. In addition to the pulmonary tract, tuberculosis may affect many organs and systems, including lymph nodes, larynge, middle ear, genitourinary tract, musculoskeletal system, central nervous system, gastrointestinal tract, pericardium, and skin. Ocular involvement is an uncommon event in tuberculous infection, and there are several presentations involving the iris, ciliary body, choroid, retina and optic nerve. The diagnosis is based in the detection of mycobacteria in fluids and tissues. If there is no available material for analysis, a presumptive diagnosis is made and therapeutic test initiated. The therapy is based in anti-tuberculous drugs and corticosteroids. The standard treatment protocol in Brazil includes isoniazid, rifampim, and pyrazinamid for two months, followed by isoniazid and rifampin for four months for susceptible organisms. Alternative regimens are necessary in the presence of drug resistance.
+
+Section 2: [Not Available].
+Source: Sante publique (Vandoeuvre-les-Nancy, France) (2024)
+----------------------------------------
+Drug-resistant tuberculosis is a public health priority and shortcomings in health services can make matters worse.
+
